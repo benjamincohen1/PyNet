@@ -59,7 +59,8 @@ def fireOnTestData(n,datafile):
 			correct+=1
 
 		else:
-			sse+=sumError(outweights,targetVector)
+			#sse+=sumError(outweights,targetVector)
+			pass
 		matrix[classification-1][int(line[2])-1]+=1	
 
 

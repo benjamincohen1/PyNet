@@ -1,0 +1,46 @@
+Training Data
+0 epocs
+===============
+   B  N  R  S
+B [15, 22, 22, 15]
+N [0, 0, 0, 0]
+R [0, 0, 0, 0]
+S [0, 0, 0, 0]
+Profit: -1.13
+We got 15 out of 74 correct for an accuracy of: 0.202702702703 percent on the training data.
+10 epocs
+===============
+   B  N  R  S
+B [0, 0, 0, 0]
+N [0, 0, 0, 0]
+R [15, 22, 22, 15]
+S [0, 0, 0, 0]
+Profit: -2.54
+We got 22 out of 74 correct for an accuracy of: 0.297297297297 percent on the training data.
+100 epocs
+===============
+   B  N  R  S
+B [0, 0, 0, 0]
+N [0, 0, 0, 0]
+R [15, 22, 22, 15]
+S [0, 0, 0, 0]
+Profit: -2.54
+We got 22 out of 74 correct for an accuracy of: 0.297297297297 percent on the training data.
+1000 epocs
+===============
+   B  N  R  S
+B [15, 0, 0, 6]
+N [0, 22, 0, 1]
+R [0, 0, 22, 6]
+S [0, 0, 0, 2]
+Profit: 6.43
+We got 61 out of 74 correct for an accuracy of: 0.824324324324 percent on the training data.
+10000 epocs
+===============
+   B  N  R  S
+B [11, 0, 0, 4]
+N [0, 22, 0, 1]
+R [0, 0, 22, 3]
+S [4, 0, 0, 7]
+Profit: 5.71
+We got 62 out of 74 correct for an accuracy of: 0.837837837838 percent on the training data.

@@ -1,0 +1,4 @@
+To Train: 
+	python train.py <trainingdata>
+To execute: 
+	python execute.py <weightfile> <datafile>
